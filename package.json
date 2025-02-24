@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:rampatra/wedding-website.git"
+    "url": "git+ssh://github.com/Designed-byRav/Ravi-Weds-Simi-2027.git"
   },
   "keywords": [
     "wedding",
     "template",
     "website template"
   ],
-  "author": "Ram Patra",
+  "author": "Rav",
   "license": "GPL-3.0",
-  "homepage": "https://github.com/rampatra/wedding-website",
+  "homepage": "https://designed-byrav.github.io/Ravi-Weds-Simi-2027/",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-rename": "^1.4.0",
